@@ -1,0 +1,53 @@
+* {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+img {
+    width: 400px;
+    
+    
+}
+.wrapper {
+    background-color: black;
+    /* width: 1920px; */
+    height: 1200px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+.light {
+    padding-left: 840px;
+    padding-top: 180px;
+}
+button {
+    font-size: 40px;
+    padding: 10px 30px;
+    
+}
+.container {
+    padding-left: 750px;
+    padding-top: 120px;
+    
+}
+.Light-on {
+    margin-right: 90px;
+    border-radius: 8px;
+    font-weight: 700;
+    color: aliceblue;
+    background-color: red;
+    padding: 15px 32px;
+}
+.Light-off {
+    border-radius: 8px;
+    font-weight: 700;
+    color: aliceblue;
+    background-color: red;
+    padding: 15px 32px;
+}
+h1 {
+    color: aliceblue;
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+}
